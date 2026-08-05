@@ -3,4 +3,5 @@ friends[2]="Romeo"
 
 friends.append("Ishwar")
 friends.insert(3,"Ashok")
+friends.sort
 print(friends)
