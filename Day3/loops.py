@@ -11,7 +11,7 @@ for i in range(25):
 
 for i in range(25):
     if(i==12):
-        continue      #Continue the loop
+        continue      #skip the iteration from the loop
     print(i)
 
 
